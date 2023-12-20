@@ -17,7 +17,7 @@ Experience
     - Created a website for the youth team that I coach. I was not satisfied with the tools I had at my disposal for sharing the playbook with my team, so I created and setup a website that displayed the information I wanted and how I wanted.
   - 🤖 Robot Lab (Python)
     - Programmed an autonomous robot for a school project. The course had us code different algorithms for self-localization and path finding, and finished with a race through an obstacle course, where we used what we learned to go through the course as fast as possible. My group finished 1st in the race.🥇
-  - ⚔️ Turned-based RPG game (Python + PyGame)
+  - ⚔️ Turn-based RPG game (Python + PyGame)
     - Created a turn-based RPG game using python and pygame, that features character stats (health, mana, xp, gold, etc.), fighting in different zones, shops, blacksmith, inventory, and more.
 
 Current Projects
