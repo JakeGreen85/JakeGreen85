@@ -27,7 +27,9 @@ Experience
 Current Projects
 -
   - ⚔️ 3D RPG Game (to be extended with Steam Multiplayer API) (C#)
-    - Working on a 3D RPG game. This project is based on my experience that I gained from the pixel art RPG game. This game is much more complex, as it will have multiple character classes and will be extended with the Steam Multiplayer API, so you can create a lobby and play with your friends.
+    - Working on a 3D RPG game. This project is based on my experience that I gained from the pixel art RPG game. This game is much more complex, as it will have multiple character classes and will be extended with the Steam Multiplayer API, so you can create a lobby and play with your friends
+  - 🏈 VR Football Simulator
+    - Working on an american football simulator with the purpose of training quarterbacks develop their skills within football.
 
 <!---
 JakeGreen85/JakeGreen85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
