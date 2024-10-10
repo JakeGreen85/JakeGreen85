@@ -2,8 +2,8 @@ About Me
 -
 - 👋 Hi, I’m Jakob Green
 - 👀 I’m interested in Football, coding, and games
-- 🌱 I’m currently studying computer science at the University of Copenhagen
-- 📫 Email: plc403@alumni.ku.dk Phone: +45 31 66 69 63
+- 🌱 I’m currently studying Game Development at the IT University of Copenhagen (MSc in Games)
+- 📫 Email: jakg@itu.dk Phone: +45 31 66 69 63
 
 Experience
 -
