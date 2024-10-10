@@ -1,6 +1,6 @@
 About Me
 -
-- 👋 Hi, I’m Jakob Green
+- 👋 Hi, I’m Jakob Green (BSc in Computer Science)
 - 👀 I’m interested in Football, coding, and games
 - 🌱 I’m currently studying Game Development at the IT University of Copenhagen (MSc in Games)
 - 📫 Email: jakg@itu.dk Phone: +45 31 66 69 63
@@ -19,13 +19,15 @@ Experience
     - Programmed an autonomous robot for a school project. The course had us code different algorithms for self-localization and path finding, and finished with a race through an obstacle course, where we used what we learned to go through the course as fast as possible. My group finished 1st in the race.🥇
   - ⚔️ Turn-based RPG game (Python + PyGame)
     - Created a turn-based RPG game using python and pygame, that features character stats (health, mana, xp, gold, etc.), fighting in different zones, shops, blacksmith, inventory, and more.
+  - 🎮 VR Games (C#)
+    - Finished a Virtual Reality course at KU and started developing VR games.
+    - Created a VR Boxing App for my Bachelor's project
+    - Created a skydiving experience for my class project
 
 Current Projects
 -
   - ⚔️ 3D RPG Game (to be extended with Steam Multiplayer API) (C#)
     - Working on a 3D RPG game. This project is based on my experience that I gained from the pixel art RPG game. This game is much more complex, as it will have multiple character classes and will be extended with the Steam Multiplayer API, so you can create a lobby and play with your friends.
-  - 🎮 VR Games (C#)
-    - Enrolled in a Virtual Reality course at KU and started developing VR games.
 
 <!---
 JakeGreen85/JakeGreen85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
