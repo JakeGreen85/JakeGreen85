@@ -7,6 +7,10 @@ About Me
 
 Experience
 -
+  - Chibo: River of Fate (C#) - (Work in Progress)
+    - In a group of 7, with a focus on the game world where I worked as a programmer and level designer, we are currently creating a "Journey"-esque game, where you play as Chibo, a young guy trying to navigate his way around the world, as you embark on a journey to visit the "mystics" of the world
+  - Trinket: Hoard of Mischief (C#)
+    - In a group of 7, I worked as a programmer, where we created a "Untitled Goose Game"-inspired game, where you, Trinket the Dragon, cause mischief in your neighborhood by hoarding your neighbors' belongings, while experiencing a sweet story between your neighbor and his daughter.
   - 🧱 Breakout (C#)
     - Created a Breakout game for a school project. The game uses the DIKUArcade game engine developed by the Computer Science department of the University of Copenhagen. Breakout was developed throughout the Software Development course, which prepared us for our final project: Galaga.
   - 👾 Galaga (C#)
